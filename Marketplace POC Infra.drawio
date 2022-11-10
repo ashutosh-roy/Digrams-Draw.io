@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T06:13:32.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kX5-M9YAomWnETaR4WaK" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T10:10:43.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wRS2aKzVhz7g-lalWPkp" version="20.4.1" type="github">
   <diagram id="HNbb-afe_FEIU-F9-s1I" name="Page-1">
-    <mxGraphModel dx="2670" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2167" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,11 @@
         </mxCell>
         <mxCell id="ojXyrcIZll84Pq-sgRtO-5" value="Backend" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ojXyrcIZll84Pq-sgRtO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ojXyrcIZll84Pq-sgRtO-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ojXyrcIZll84Pq-sgRtO-6" value="Ecommerce" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="180" width="120" height="60" as="geometry" />
@@ -70,13 +75,16 @@
           <mxGeometry x="930" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ojXyrcIZll84Pq-sgRtO-32" value="Shopizer Admin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ojXyrcIZll84Pq-sgRtO-35" value="Frontend exists in the local system&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ojXyrcIZll84Pq-sgRtO-36" value="[Common Backend for all 3]&lt;br&gt;Retail---Marketplace--backend-new&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;Comm%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Retail---Marketplace--Retail---Marketplace---SellerPortal%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22220%22%20y%3D%22780%22%20width%3D%22310%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Retail---Marketplace--backend-new%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522Retail---Marketplace--Retail---Marketplace---SellerPortal%2522%2520style%253D%2522whiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522220%2522%2520y%253D%2522780%2522%2520width%253D%2522310%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22220%22%20y%3D%221040%22%20width%3D%22310%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="110" height="210" as="geometry" />
+          <mxGeometry x="560" y="150" width="110" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ojXyrcIZll84Pq-sgRtO-47" value="VM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="830" y="195" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
