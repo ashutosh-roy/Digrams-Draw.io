@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T06:03:57.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nMqCLbYGQGN5JuQ96TTr" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T06:59:52.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZB99r4ps3B2FHtLZEGz8" version="20.8.19" type="github">
   <diagram name="Page-1" id="yHqdBd0pj_aPX8kguWVa">
     <mxGraphModel dx="1035" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
           <mxGeometry x="330" y="320" width="196" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CvUKT5107kWklErnXSAj-11" value="Showcase&lt;br&gt;Pull the tag from S3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
