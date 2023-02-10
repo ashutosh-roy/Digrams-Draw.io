@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T05:30:19.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.19" etag="KxoW5dw3cl8FpiielHkL" type="github"><diagram name="Page-1" id="yHqdBd0pj_aPX8kguWVa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-10T06:03:57.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nMqCLbYGQGN5JuQ96TTr" version="20.8.19" type="github">
+  <diagram name="Page-1" id="yHqdBd0pj_aPX8kguWVa">
+    <mxGraphModel dx="1035" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CvUKT5107kWklErnXSAj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CvUKT5107kWklErnXSAj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-1" value="QA&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CvUKT5107kWklErnXSAj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-3" value="Approval (Manual)&amp;nbsp; -&amp;gt;&lt;br&gt;&amp;nbsp;Put Tag on the commit (Manual)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-5" value="Showcase&lt;br&gt;Deploy the tag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CvUKT5107kWklErnXSAj-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-8" value="&amp;nbsp;QA&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.042;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CvUKT5107kWklErnXSAj-10" target="CvUKT5107kWklErnXSAj-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="410" />
+              <mxPoint x="570" y="400" />
+              <mxPoint x="590" y="400" />
+              <mxPoint x="590" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-10" value="Approval (Manual)&amp;nbsp; -&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Put Tag on the commit (Manual) -&amp;gt; Push the jar to S3&lt;br&gt;OR&amp;nbsp;&lt;br&gt;&lt;br&gt;Use GH Pages&amp;nbsp;&lt;br&gt;&lt;br&gt;Or&amp;nbsp;&lt;br&gt;&lt;br&gt;Push GH artifact&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="196" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CvUKT5107kWklErnXSAj-11" value="Showcase&lt;br&gt;Pull the tag from S3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
